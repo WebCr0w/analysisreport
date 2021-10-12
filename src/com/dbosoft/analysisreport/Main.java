@@ -4,7 +4,6 @@ import com.dbosoft.analysisreport.services.GetListFromTxt;
 import com.dbosoft.analysisreport.services.GetProductWithMaxProfitService;
 
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
